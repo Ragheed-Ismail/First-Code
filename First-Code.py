@@ -10,4 +10,5 @@ else:
         print("we will check it out!")
     else:
         print("Please Enter the write letter.")
-print ("Application Closing. Bye!")
+z=x/y
+w=x*y
