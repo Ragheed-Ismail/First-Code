@@ -10,7 +10,4 @@ else:
         print("we will check it out!")
     else:
         print("Please Enter the write letter.")
-z=x/y
-w=x*y
-Testing=x-y
-print (Testing)
+print("Is everything ok?")
