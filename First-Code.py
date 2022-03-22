@@ -12,3 +12,5 @@ else:
         print("Please Enter the write letter.")
 z=x/y
 w=x*y
+Testing=x-y
+print (Testing)
