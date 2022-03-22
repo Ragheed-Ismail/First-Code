@@ -4,9 +4,9 @@ y = input("Enter value of y:")
 print (str(x)+"+"+str(y)+"="+str(x+y)+" .")
 ans = input("Is that corret?(y/n)")
 if ans==y:
-    print(":)")
+    print("Thank you!")
 else:
     if ans==n:
-        print(":(")
+        print("we will check it out!")
     else:
-        print(":/")
+        print("Please Enter the write letter.")
